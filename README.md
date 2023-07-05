@@ -48,7 +48,7 @@ El proyecto está organizado en varias etapas, cada una con tareas específicas 
 
 ## Contribuciones y Contacto
 
-Este proyecto ha sido desarrollado por [Tu Nombre]. Si tienes alguna pregunta, sugerencia o contribución, no dudes en ponerte en contacto conmigo a través de [tu correo electrónico o medio de contacto].
+Este proyecto ha sido desarrollado por Kristian Mendoza. Si tienes alguna pregunta, sugerencia o contribución, no dudes en ponerte en contacto conmigo a través de [tu correo electrónico o medio de contacto].
 
 ¡Gracias por tu interés en este proyecto de análisis de resultados electorales!
 
