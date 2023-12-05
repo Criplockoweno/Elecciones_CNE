@@ -46,9 +46,5 @@ El proyecto está organizado en varias etapas, cada una con tareas específicas 
 3. Ejecuta el código en un entorno de desarrollo o intérprete de Python, siguiendo las instrucciones y tareas descritas en el proyecto para cada conjunto de datos.
 4. Observa los resultados y análisis obtenidos para cada conjunto de datos por separado.
 
-## Contribuciones y Contacto
 
-Este proyecto ha sido desarrollado por Kristian Mendoza. Si tienes alguna pregunta, sugerencia o contribución, no dudes en ponerte en contacto conmigo a través de [tu correo electrónico o medio de contacto].
-
-¡Gracias por tu interés en este proyecto de análisis de resultados electorales!
 
